@@ -10,6 +10,6 @@ To run the project:
 
 For e.g: If you export as jar file, the the command to run the jar file would be:
 
-java -jar D:\Java\Movies D:\Java\Movies\Icons
+java -jar JarFilName D:\Java\Movies D:\Java\Movies\Icons
 
 Note: Movies should contain subdirectories of all the movies. 
